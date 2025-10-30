@@ -30,7 +30,7 @@ function Cart() {
       totalDiscount += 0.05;
     }
 
-    if (promoCode.toUpperCase() === "DISKON20") {
+    if (promoCode === "DISKON20") {
       totalDiscount += 0.2;
     }
 
