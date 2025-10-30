@@ -12,7 +12,4 @@ export default defineConfig({
       protocolImports: true,
     }),
   ],
-  build: {
-    outDir: "build",
-  },
 });
